@@ -10,8 +10,8 @@ Website of Naren Coir Industries
 
 ## Developed by
 Dharaneish V C
-https://www.linkedin.com/in/dharaneishvc/
-https://www.facebook.com/dharaneishvc/
-https://www.instagram.com/dharaneishvc/
-https://www.twitter.com/dharaneishvc/
+* https://www.linkedin.com/in/dharaneishvc/
+* https://www.facebook.com/dharaneishvc/
+* https://www.instagram.com/dharaneishvc/
+* https://www.twitter.com/dharaneishvc/
 
