@@ -8,10 +8,12 @@ Website of Naren Coir Industries
 4. Process
 5. Contact Us
 
-## Developed by
-Dharaneish V C
+----------------------------------------------------------------
+## Developed by Dharaneish V C
 * https://www.linkedin.com/in/dharaneishvc/
 * https://www.facebook.com/dharaneishvc/
 * https://www.instagram.com/dharaneishvc/
 * https://www.twitter.com/dharaneishvc/
+
+---------------------------------------------------------------
 
